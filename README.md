@@ -4,6 +4,19 @@
 
 A curved wraparound droptank with an integrated decoupler for Kerbal Space Program
 
+![CKAN](https://img.shields.io/badge/CKAN-Indexed-brightgreen.svg) [![SpaceDock](https://img.shields.io/badge/SpaceDock-listed-blue.svg)](http://spacedock.info/mod/1127)
+
+## Description
+
+- It's always nice to add some extra fuel without adding much to the size of the spacecraft
+- Has 4 sizes of different length
+- Very Fairing friendly due to its shape
+- Has a stock crossfeed switcher
+- Integrated decoupler
+- Aeroynamic nosecap to close the ends or make a boat
+- Stockalike texture will blend in with any craft
+- TweakScale support
+
 ## License
 
 Licensed under [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
