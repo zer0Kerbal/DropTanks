@@ -36,7 +36,7 @@
 
 ---
 
-## Version 1.0.0.0-release
+## Version 1.0.0.0-release - `<Archive>` edition
 
 * 26 Dec 2016
 * Released for Kerbal Space Program 1.3.0
