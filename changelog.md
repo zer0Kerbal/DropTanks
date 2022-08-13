@@ -69,6 +69,7 @@
   * <WrapperTankBracelet> --> <drop-tank-bracelet> v2.0.0.0
   * <WrapperTank> --> <drop-tank-wrapper> v2.0.0.0
   * <WrapperCap> --> <drop-tank-cap> v2.0.0.0
+  * <WrapperTankWristband> --> <drop-tank-wristband> v2.0.0.0
   * Add
     * <ghostParts.cfg> v1.3.0.1
     * in order to prevent name changes from breaking compatibility
