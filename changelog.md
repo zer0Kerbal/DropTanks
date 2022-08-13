@@ -80,6 +80,13 @@
   * <InterstellarFuelSwitch.cfg> v1.0.0.0
   * <TweakScale.cfg> v1.0.0.0
 
+### Documentation
+
+* Update
+  * [Readme.md]
+  * [.version]
+    * remove [KSP_VERSION_MAX]
+
 ### Localization 1.0.99.0
 
 32 - Part Localization
