@@ -24,15 +24,14 @@ updated: 03 Jun 2022
 ### Credits
 
 <ul>
-  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/93697-*/"><img border="0" alt="dtobi" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/set_resources_17/84c1e40ea0e759e3f1505eb1788ddf3c_default_photo.png" width="50" height="50" > Enceos</a> for creating <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/208107-*/" alt="Enceos Ltd (KM)"> the Enceos series of parts addons!</a></li>
-  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/81209-*/"><img border="0" alt="Bezzier" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/set_resources_17/84c1e40ea0e759e3f1505eb1788ddf3c_default_photo.png" width="50" height="50" > Bezzier</a> for picking up where Enceos left off (Color Curves)</li>
+  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/110725-*/"><img border="0" alt="Enceos" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_03_2016/dancing_cat-avatar.gif.db945a3aa9705efccf5e235458898d1c.thumb.gif.760e54706f08b3d3b5c5bf6284999e29.gif" width="50" height="50" > Enceos</a> for creating <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/209332-*/" alt="Enceos Ltd (KM)"> the Kerbal Hacks series of parts addons!</a></li>
   <li><i>Thank you to everyone who gave feedback! It's very important for me and highly appreciated.</i></li>
 </ul>
 
 ### Flag(s)
 
 <ul>
-  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/"><img border="0" alt="zer0Kerbal" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2018_08/free-clipart-hithhikers-guide-14.thumb.jpg.05fc7d1bdc37ce2bfca8923bf1e97303.jpg" width="50" height="50" > zer0Kerbal</a></li>
+  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/110725-*/"><img border="0" alt="Enceos" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_03_2016/dancing_cat-avatar.gif.db945a3aa9705efccf5e235458898d1c.thumb.gif.760e54706f08b3d3b5c5bf6284999e29.gif" width="50" height="50" > Enceos</a></li>
 </ul>
 
 ### Agency
@@ -68,10 +67,9 @@ updated: 03 Jun 2022
 </ul>
 
 <!-- links -->
-[DML]: https://forum.kerbalspaceprogram.com/index.php?/topic/208107-*/ "Enceos Ltd Forum Thread"
+[DROP]: https://forum.kerbalspaceprogram.com/index.php?/topic/209332-*/ "Drop Tank Wrappers"
 
-[enceos]: https://forum.kerbalspaceprogram.com/index.php?/profile/93697-*/ "enceos"
-[bezzier]: https://forum.kerbalspaceprogram.com/index.php?/profile/81209-*/ "Bezzier"
+[enceos]: https://forum.kerbalspaceprogram.com/index.php?/profile/110725-*/ "enceos"
 [cptkipard]: https://forum.kerbalspaceprogram.com/index.php?/profile/70516-*/ "Captain Kipard"
 [zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"
 
