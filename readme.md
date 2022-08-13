@@ -98,13 +98,15 @@ Also by KerbalHacks
 * [On Demand Fuel Cells (ODFC)][ODFC]
 * [GPO (Goo Pumps & Oils') Speed Pump (GPO)][GPO]
 * [TweakScale (TWK)][twk]
+* Fuel Switchers
+  * CryoEngines, Stock Fuel Switch, Modular Fuel Tanks, Configurable Containers
 * Either [^3]
   * [Module Manager][mm]
   * [Module Manager /L][mml]
 
 ### Tags
 
-parts, config
+parts, resources
 
 <div style="border:0.5px solid Tomato; background-color: #BADA55; color: #FF0000; text-align:center">
   <p><b>red box below is a link to forum post on how to get support</b></p>
