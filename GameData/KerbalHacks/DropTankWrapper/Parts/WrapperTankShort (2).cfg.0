@@ -23,7 +23,7 @@ PART
 	category = FuelTank
 	subcategory = 0
 	title = Droptank "WristBand"
-	manufacturer = #KHDT-manu // Kerbal Hacks
+	manufacturer = #DROP-manu // Kerbal Hacks
 	description = When the lack of shorter Wrapper tanks caused a riot among the rocketeers, Wherner decided to cut the current model in half. Crossfeed is switchable.
 	attachRules = 0,1,0,1,1
 	mass = 0.2
@@ -114,7 +114,7 @@ PART
 	category = FuelTank
 	subcategory = 0
 	title = Droptank "Bracelet"
-	manufacturer = #KHDT-manu // Kerbal Hacks
+	manufacturer = #DROP-manu // Kerbal Hacks
 	description = For those who love their rockets tiny and cute. Crossfeed is switchable.
 	attachRules = 0,1,0,1,1
 	mass = 0.1
