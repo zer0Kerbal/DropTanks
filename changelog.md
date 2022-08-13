@@ -32,22 +32,26 @@
   * [Notices.md] v1.0.1.0
   * [Parts-Catalog.md] v1.1.4.1
   * [Why.md] v1.1.0.0
+* closes #36 - docs/
 
 ### Add localized tags to parts
 
 * Add
   * [DropTankWrapper.cfg] v1.0.0.0
     * adds localized tags to parts
+* closes #38 - Add localized tags to parts
 
-### Localization
+### Localization 1.0.99.0
 
 * Create
   * Localization/
     * <en-us.cfg>
     * [readme.md] v2.1.2.0
     * [quickstart.md] v1.0.1.1
-* Updates # - Localization Master
-* Closes # - Localization - English <en-us.cfg>
+* updates #14 - Localization Master
+* closes #15 - Localization - English <en-us.cfg>
+* closes #32 - Part Localization
+* closes #37 - Localization Issue
 
 ### Asset Updates
 
@@ -73,6 +77,7 @@
   * Add
     * <ghostParts.cfg> v1.3.0.1
     * in order to prevent name changes from breaking compatibility
+* closes #35 - Asset Updates
 
 ### Compatibility 1.0.99.0
 
@@ -86,12 +91,6 @@
   * [Readme.md]
   * [.version]
     * remove [KSP_VERSION_MAX]
-
-### Localization 1.0.99.0
-
-32 - Part Localization
-15 - English <us-en.cfg>
-14 - Localization - Master
 
 ### Status 1.0.99.0
 
