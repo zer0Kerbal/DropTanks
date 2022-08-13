@@ -15,7 +15,7 @@ updated: 10 Aug 2022 -->
 
 Stockalike curved wraparound droptanks with an integrated decoupler for Kerbal Space Program
 
-
+![RotatingWrapper](https://fat.gfycat.com/EnergeticThirstyGrouper.gif) ![RotatingNosecap](https://thumbs.gfycat.com/DefiniteAcclaimedAlpaca-size_restricted.gif)
 
 ## By [`zer0Kerbal`][zer0Kerbal], originally by [`Enceos`][enceos]
 
