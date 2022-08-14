@@ -37,7 +37,7 @@ updated: 03 Jun 2022
 ### Agency
 
 <ul>
-  <li><a href="(https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/)"><img border="0" alt="zer0Kerbal" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2018_08/free-clipart-hithhikers-guide-14.thumb.jpg.05fc7d1bdc37ce2bfca8923bf1e97303.jpg" width="50" height="50" > zer0Kerbal</a></li>
+  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/"><img border="0" alt="zer0Kerbal" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2018_08/free-clipart-hithhikers-guide-14.thumb.jpg.05fc7d1bdc37ce2bfca8923bf1e97303.jpg" width="50" height="50" > zer0Kerbal</a></li>
 </ul>
 
 ### Special Thanks
@@ -52,6 +52,7 @@ updated: 03 Jun 2022
 
 <ul>
   <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/EN.png " alt="English" style="zoom:150%;" /> English</li>
+  <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/NL.png " alt="Dutch" style="zoom:150%;" /> Dutch - thank you to <a href="https://forum.kerbalspaceprogram.com/index.php?/profile/104304-*/"><img border="0" alt="renejant" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/profile/photo-104304.jpg" width="25" height="25" > renejant</a> <i>(bedankt!)</i></li>
   <li><small>Additions and corrections welcome!</small></li>
 </ul>
 
