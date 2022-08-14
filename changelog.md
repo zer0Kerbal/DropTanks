@@ -18,6 +18,9 @@
 ### Summary 1.0.99.0
 
 * Adoption by zer0Kerbal
+* Localization
+  * English
+  * Dutch thank you to @renejant (*bedankt!*)
 
 ### docs/
 
@@ -46,10 +49,13 @@
 * Create
   * Localization/
     * <en-us.cfg>
+    * <nl-nl.cfg> v1.0.1.0
+      * thank you to @renejant (*bedankt!*)
     * [readme.md] v2.1.2.0
     * [quickstart.md] v1.0.1.1
 * updates #14 - Localization Master
-* closes #15 - Localization - English <en-us.cfg>
+* closes #15- English <en-us.cfg>
+* closes #26 - Dutch <nl-nl.cfg>
 * closes #32 - Part Localization
 * closes #37 - Localization Issue
 
