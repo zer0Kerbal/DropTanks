@@ -22,11 +22,23 @@ based upon work by LisiasT -->
 
 ## Trademarks <i class="fa-solid fa-trademark fa-beat-fade" style="--fa-beat-fade-opacity: 0.1; --fa-beat-fade-scale: 1.25;color: black" ></i>
 
-* "DropTankWrapper" is trademark of zer0Kerbal
+* "Droptank "Wrapper"" is trademark of Enceos
+* "Kerbal Hacks" is trademark of Enceos
+* "Kerbal Hacks Ltd" is trademark of zer0Kerbal
+* "Drop Tank Wrapper" is trademark of zer0Kerbal
+* "DROP"" is a trademark of zer0Kerbal
 * Kerbal Simple Co is a trademark of zer0Kerbal
 * KerbSimCo is a trademark of zer0Kerbal
 * KerbSimpleCo is a trademark of zer0Kerbal
 * zer0Kerbal is trademark of zer0kerbal
+
+## Kerbal Hacks (KH) (KerbalHacks)
+
+* "Kerbal Hacks (KerbalHacks) (KH)" is a fictitious entity created for entertainment purposes. It is in no way meant to represent a real entity. Any similarity to a real entity is purely coincidental.
+
+## Kerbal Hacks Ltd. (KH/L) (KerbalHacksLtd)
+
+* "Kerbal Hacks Ltd. (KH/L) (KerbalHacksLtd)" is a fictitious entity created for entertainment purposes. It is in no way meant to represent a real entity. Any similarity to a real entity is purely coincidental.
 
 ## Kerbal Simple Co (KerbSimCo) (KerbSimpleCo)
 
