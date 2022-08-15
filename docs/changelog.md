@@ -150,11 +150,11 @@ CC BY-ND 4.0 by zer0Kerbal
 ### Status 1.0.99.0
 
 * Issues
-  * closes #2 - Release 1.0.9.9-adoption
   * closes #10 - Drop Tank Wrapper (DROP) 1.0.99.0-adoption `<Thank you Enceos>`
   * closes #11 - 1.0.99.0 Verify Legal Mumbo Jumbo
   * closes #12 - 1.0.99.0 Update Documentation
   * closes #13 - 1.0.99.0 Update Social Media
+  * closes #2 - Release 1.0.9.9-adoption
 
 ---
 
