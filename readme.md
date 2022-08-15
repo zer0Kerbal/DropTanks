@@ -17,7 +17,6 @@ Stockalike curved wraparound droptanks with an integrated decoupler for Kerbal S
 
 <img src="https://thumbs.gfycat.com/DefiniteAcclaimedAlpaca-size_restricted.gif" alt="Rotating Nose Cap" width="35%" height="35%">
 
-
 ## By [`zer0Kerbal`][zer0Kerbal], originally by [`Enceos`][enceos]
 
 adopted with *express* permission and brought to you by *KerbSimpleCo*
