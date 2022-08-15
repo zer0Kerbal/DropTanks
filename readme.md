@@ -221,14 +221,14 @@ parts, resources
 [DROP]: https://forum.kerbalspaceprogram.com/index.php?/topic/209332-*/  "Drop Tank Wrapper (DROP)"
 [PRC]: https://forum.kerbalspaceprogram.com/index.php?/topic/209350-*/ "Portable Science Container (PRC)"
 
-[ASS] https://forum.kerbalspaceprogram.com/index.php?/topic/134889-*/ "Animated Station Screens (ASS)"
+[ASS]: https://forum.kerbalspaceprogram.com/index.php?/topic/134889-*/ "Animated Station Screens (ASS)"
 [AT]: https://forum.kerbalspaceprogram.com/index.php?/topic/134889-*/ "Asphalt Tiles (AT)"
 [HZT]: https://forum.kerbalspaceprogram.com/index.php?/topic/134889-*/ "Hazard Tanks Textures (HZT)"
-[KISP] https://forum.kerbalspaceprogram.com/index.php?/topic/134889-*/ "KIS Props (KISP)"
-[LSF] https://forum.kerbalspaceprogram.com/index.php?/topic/134889-*/ "Large Stock Fairings (LSF)"
+[KISP]: https://forum.kerbalspaceprogram.com/index.php?/topic/134889-*/ "KIS Props (KISP)"
+[LSF]: https://forum.kerbalspaceprogram.com/index.php?/topic/134889-*/ "Large Stock Fairings (LSF)"
 [MAT]: https://forum.kerbalspaceprogram.com/index.php?/topic/134889-*/ "More Asphalt Tiles (AT)"
 [SMF]: https://forum.kerbalspaceprogram.com/index.php?/topic/134889-*/ "Simple Mission Flags (SMF)"
-[VST] https://forum.kerbalspaceprogram.com/index.php?/topic/134889-*/ "Ven's Style Textures (VST)"
+[VST]: https://forum.kerbalspaceprogram.com/index.php?/topic/134889-*/ "Ven's Style Textures (VST)"
 
 [b9ps]: https://forum.kerbalspaceprogram.com/index.php?/topic/140541-*/ "B9 Part Switch"
 [mm]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/ "Module Manager"
