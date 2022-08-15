@@ -22,6 +22,19 @@
   * English
   * Dutch thank you to @renejant (*bedankt!*)
 
+### Parts 1.0.99.0
+
+* Update
+  * [drop-tank-*] v2.0.0.0
+    * [tags] = #autoLOC_500531 // fueltank ?lfo liquid oxidizer propellant rocket
+    * [maxTemp] was 3200 now 2000
+  * Add
+    * [stagingIcon] = DECOUPLER_HOR
+    * [breakingForce] = 50
+    * [breakingTorque] = 50
+    * [DRAG_CUBE]
+    * thumbnail
+
 ### docs/
 
 * Add
@@ -88,13 +101,36 @@
 ### Compatibility 1.0.99.0
 
 * Add
-  * <InterstellarFuelSwitch.cfg> v1.0.0.0
+  * <InterstellarFuelSwitch.cfg> v1.0.1.0
+    * missing drop-tank-bracelet-125 patch since, well, the mess below:
+      * quantities, masses, and cost are totally messed up
+      * don't have enough aspirin to take this one down
+      * don't have a clue what Xe and EE (battery) should be
+        * e.g. Cap tank is:
+          * Structural
+          * 65 LF
+          * 45 LF + 55 OX
+          * 40 MP
+          * 45 LF + 55 OX + 30 MP
+          * 1800 Xe
+          * 1500 Xe + 20 MP
+        * but should be?
+          * Structural
+          * 120 LF
+          * 54 LF + 66 OX
+          * 180 MP
+          * 45 LF + 55 OX + 30 MP
+          * 1800 Xe
+          * 1500 Xe + 20 MP
   * <TweakScale.cfg> v1.0.0.0
+    * all parts have a [bulkheadProfiles] = size1 but defaultScale of 2.5
+      * didn't fix it because it's a bug in the original tweakscale.cfg
 
 ### Documentation
 
 * Update
-  * [Readme.md]
+  * [Readme.md] v1.6.9.4
+  * [_releaseNotes.md] v1.3.2.1
   * [.version]
     * remove [KSP_VERSION_MAX]
 
