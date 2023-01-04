@@ -6,13 +6,13 @@ tags: installation,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 
 <!-- ManualInstallation.md v1.1.8.1
-Drop Tank Wrapper (DROP) by Kerbal Hacks
+Drop Tank Wrapper (DROP)
 created: 01 Oct 2019
 updated: 29 Jul 2022 -->
 
 <!-- based upon work by Lisias -->
 
-# Drop Tank Wrapper (DROP) by Kerbal Hacks
+# Drop Tank Wrapper (DROP)
 
 [Home](./index.md)
 
@@ -26,7 +26,7 @@ You should be all good! (check for latest version on CurseForge)
 
 ### If Downloaded from CurseForge/OverWolf manual download
 
-To install, place the `DropTankWrapper` folder inside your Kerbal Space Program's GameData folder:
+To install, place the `KerbalHacks` folder inside your Kerbal Space Program's GameData folder:
 
 * **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**
   * Delete `<KSP_ROOT>/GameData/KerbalHacks/DropTankWrapper`
@@ -63,12 +63,12 @@ To install, place the `GameData` folder inside your Kerbal Space Program folder:
           ...
         + [Parts]
           ...
+          ManualInstallation.htm
         * #.#.#.#.htm
         * Attributions.htm
         * CC-BY-NC-SA-4.0.txt
         * changelog.md
         * DropTankWrapper.version
-          ManualInstallation.htm
         * readme.htm
       ...
     ...
@@ -82,5 +82,3 @@ To install, place the `GameData` folder inside your Kerbal Space Program folder:
 * [Kerbal Hacks Ltd. (KH/L)][KHL]
 
 [KHL]: https://forum.kerbalspaceprogram.com/index.php?/topic/191424-*/ "Kerbal Hacks Ltd. (KH/L)"
-[mm]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/ "Module Manager"
-[mml]: https://github.com/net-lisias-ksp/ModuleManager "Module Manager /L"
