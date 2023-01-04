@@ -12,8 +12,10 @@
 
 ## Version 1.0.99.0-adoption - `<Thank you Enceos>` edition
 
-* 12 Aug 2022  
-* Released for Kerbal Space Program [KSP 1.12.x]
+* Released
+  * 22 Aug 2022
+  * for Kerbal Space Program 1.12.3
+  * by [zer0Kerbal](http://github.com/zer0Kerbal)
 
 ### Summary 1.0.99.0
 
@@ -27,8 +29,8 @@
 * Update
   * [drop-tank-*] v2.0.0.0
     * [tags] = #autoLOC_500531 // fueltank ?lfo liquid oxidizer propellant rocket
-    * [maxTemp] was 3200 now 2000
   * Add
+    * [maxTemp] was 3200 now 2000
     * [stagingIcon] = DECOUPLER_HOR
     * [breakingForce] = 50
     * [breakingTorque] = 50
