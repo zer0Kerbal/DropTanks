@@ -25,7 +25,7 @@ based upon work by LisiasT -->
 * "Droptank "Wrapper"" is trademark of Enceos
 * "Kerbal Hacks" is trademark of Enceos
 * "Kerbal Hacks Ltd" is trademark of zer0Kerbal
-* "Drop Tank Wrapper" is trademark of zer0Kerbal
+* "Drop Tanks" is trademark of zer0Kerbal
 * "DROP"" is a trademark of zer0Kerbal
 * Kerbal Simple Co is a trademark of zer0Kerbal
 * KerbSimCo is a trademark of zer0Kerbal
