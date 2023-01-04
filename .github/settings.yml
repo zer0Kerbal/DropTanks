@@ -8,7 +8,7 @@
 
 repository:
   # The name of the repository. Changing this will rename the repository
-  name: DropTankWrapper
+  name: DropTanks
 
   # A short description of the repository that will show up on GitHub
   description: Stockalike curved wraparound droptanks with an integrated decoupler for Kerbal Space Program.
