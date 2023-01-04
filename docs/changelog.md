@@ -4,7 +4,6 @@ title: The Change Log
 description: The Opening Credits, and the closing credits, plus the first of two (or is three) end credit scenes
 tags: changes,changelog,change-log,page,kerbal,ksp,zer0Kerbal,zedK
 ---
-
 <!-- 
 hdr-changelog.md v1.0.0.0
 Drop Tanks (DROP)
@@ -13,20 +12,47 @@ updated:
 CC BY-ND 4.0 by zer0Kerbal
 --># Changelog  
   
-| modName    | Drop Tanks (DROP)                                          |
+| modName    | Drop Tanks (DROP)                                                 |
 | ---------- | ----------------------------------------------------------------- |
 | license    | CC-BY-NC-SA-4.0                                                   |
 | author     | Enceos and zer0Kerbal                                             |
 | forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/209332-*/) |
-| github     | (https://github.com/zer0Kerbal/zer0Kerbal/DropTanks)        |
-| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/DropTanks)      |
+| github     | (https://github.com/zer0Kerbal/zer0Kerbal/DropTanks)              |
+| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/DropTanks)            |
 | spacedock  | (https://spacedock.info/mod/1127)                                 |
-| ckan       | DropTanks                                                   |
+| ckan       | DropTanks                                                         |
+
+## Version 1.1.0.0-release - `<help137: Wet Paint>` edition
+
+* Released
+  * 03 Dec 2023
+  * for Kerbal Space Program 1.12.4
+  * by [zer0Kerbal](http://github.com/zer0Kerbal)
+
+### Summary 1.1.0.0
+
+* KSP verison update
+* Linting and Minor Updates
+* seems the release delivery system was a tad behind, 1.0.99.0-adoption should have been available months ago.
+
+### Status 1.1.0.0
+
+* Issues
+  * closes #42 - Drop Tank Wrapper (DROP) 1.1.0.0-release `<Wet Paint>`
+  * closes #43 - 1.1.0.0-release Verify Legal Mumbo Jumbo
+  * closes #44 - 1.1.0.0-release Update Documentation
+  * closes #45 - 1.1.0.0-release Update Social Media
+  * closes #46 - [Bug 🐞]: Directory for the model and texture files is incorrect in all 4 .cfg files
+  * updates #14 - Localization - Master
+
+---
 
 ## Version 1.0.99.0-adoption - `<Thank you Enceos>` edition
 
-* 12 Aug 2022  
-* Released for Kerbal Space Program [KSP 1.12.x]
+* Released
+  * 03 Dec 2023
+  * for Kerbal Space Program 1.12.3
+  * by [zer0Kerbal](http://github.com/zer0Kerbal)
 
 ### Summary 1.0.99.0
 
@@ -40,8 +66,8 @@ CC BY-ND 4.0 by zer0Kerbal
 * Update
   * [drop-tank-*] v2.0.0.0
     * [tags] = #autoLOC_500531 // fueltank ?lfo liquid oxidizer propellant rocket
-    * [maxTemp] was 3200 now 2000
   * Add
+    * [maxTemp] was 3200 now 2000
     * [stagingIcon] = DECOUPLER_HOR
     * [breakingForce] = 50
     * [breakingTorque] = 50
