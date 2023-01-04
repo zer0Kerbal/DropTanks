@@ -6,13 +6,13 @@ tags: installation,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 
 <!-- ManualInstallation.md v1.1.8.1
-Drop Tank Wrapper (DROP)
+Drop Tanks (DROP)
 created: 01 Oct 2019
 updated: 29 Jul 2022 -->
 
 <!-- based upon work by Lisias -->
 
-# Drop Tank Wrapper (DROP)
+# Drop Tanks (DROP)
 
 [Home](./index.md)
 
@@ -29,22 +29,22 @@ You should be all good! (check for latest version on CurseForge)
 To install, place the `KerbalHacks` folder inside your Kerbal Space Program's GameData folder:
 
 * **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**
-  * Delete `<KSP_ROOT>/GameData/KerbalHacks/DropTankWrapper`
+  * Delete `<KSP_ROOT>/GameData/KerbalHacks/DropTanks`
 * Extract the package's `KerbalHacks` folder into your KSP's GameData folder as follows:
   * `<PACKAGE>/KerbalHacks` --> `<KSP_ROOT>/GameData`
     * Overwrite any preexisting folder/file(s).
-  * you should end up with `<KSP_ROOT>/GameData/KerbalHacks/DropTankWrapper`
+  * you should end up with `<KSP_ROOT>/GameData/KerbalHacks/DropTanks`
 
 ### If Downloaded from SpaceDock / GitHub / other
 
 To install, place the `GameData` folder inside your Kerbal Space Program folder:
 
 * **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**
-  * Delete `<KSP_ROOT>/GameData/KerbalHacks/DropTankWrapper`
+  * Delete `<KSP_ROOT>/GameData/KerbalHacks/DropTanks`
 * Extract the package's `GameData` folder into your KSP's root folder as follows:
   * `<PACKAGE>/GameData` --> `<KSP_ROOT>`
     * Overwrite any preexisting file.
-  * you should end up with `<KSP_ROOT>/GameData/KerbalHacks/DropTankWrapper`
+  * you should end up with `<KSP_ROOT>/GameData/KerbalHacks/DropTanks`
 
 ## The following file layout must be present after installation
 
@@ -52,7 +52,7 @@ To install, place the `GameData` folder inside your Kerbal Space Program folder:
 <KSP_ROOT>
   + [GameData]
     + [KerbalHacksLtd]
-      + [DropTankWrapper]
+      + [DropTanks]
         + [Compatibility]
           ...
         + [Config]
@@ -68,7 +68,7 @@ To install, place the `GameData` folder inside your Kerbal Space Program folder:
         * Attributions.htm
         * CC-BY-NC-SA-4.0.txt
         * changelog.md
-        * DropTankWrapper.version
+        * DropTanks.version
         * readme.htm
       ...
     ...
