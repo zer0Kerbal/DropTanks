@@ -6,13 +6,13 @@ tags: installation,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 
 <!-- ManualInstallation.md v1.1.8.1
-Drop Tank Wrapper (DROP) by Kerbal Hacks
+Drop Tanks (DROP)
 created: 01 Oct 2019
 updated: 29 Jul 2022 -->
 
 <!-- based upon work by Lisias -->
 
-# Drop Tank Wrapper (DROP) by Kerbal Hacks
+# Drop Tanks (DROP)
 
 [Home](./index.md)
 
@@ -26,25 +26,25 @@ You should be all good! (check for latest version on CurseForge)
 
 ### If Downloaded from CurseForge/OverWolf manual download
 
-To install, place the `DropTankWrapper` folder inside your Kerbal Space Program's GameData folder:
+To install, place the `KerbalHacks` folder inside your Kerbal Space Program's GameData folder:
 
 * **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**
-  * Delete `<KSP_ROOT>/GameData/KerbalHacks/DropTankWrapper`
+  * Delete `<KSP_ROOT>/GameData/KerbalHacks/DropTanks`
 * Extract the package's `KerbalHacks` folder into your KSP's GameData folder as follows:
   * `<PACKAGE>/KerbalHacks` --> `<KSP_ROOT>/GameData`
     * Overwrite any preexisting folder/file(s).
-  * you should end up with `<KSP_ROOT>/GameData/KerbalHacks/DropTankWrapper`
+  * you should end up with `<KSP_ROOT>/GameData/KerbalHacks/DropTanks`
 
 ### If Downloaded from SpaceDock / GitHub / other
 
 To install, place the `GameData` folder inside your Kerbal Space Program folder:
 
 * **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**
-  * Delete `<KSP_ROOT>/GameData/KerbalHacks/DropTankWrapper`
+  * Delete `<KSP_ROOT>/GameData/KerbalHacks/DropTanks`
 * Extract the package's `GameData` folder into your KSP's root folder as follows:
   * `<PACKAGE>/GameData` --> `<KSP_ROOT>`
     * Overwrite any preexisting file.
-  * you should end up with `<KSP_ROOT>/GameData/KerbalHacks/DropTankWrapper`
+  * you should end up with `<KSP_ROOT>/GameData/KerbalHacks/DropTanks`
 
 ## The following file layout must be present after installation
 
@@ -52,7 +52,7 @@ To install, place the `GameData` folder inside your Kerbal Space Program folder:
 <KSP_ROOT>
   + [GameData]
     + [KerbalHacksLtd]
-      + [DropTankWrapper]
+      + [DropTanks]
         + [Compatibility]
           ...
         + [Config]
@@ -63,12 +63,12 @@ To install, place the `GameData` folder inside your Kerbal Space Program folder:
           ...
         + [Parts]
           ...
+          ManualInstallation.htm
         * #.#.#.#.htm
         * Attributions.htm
         * CC-BY-NC-SA-4.0.txt
         * changelog.md
-        * DropTankWrapper.version
-          ManualInstallation.htm
+        * DropTanks.version
         * readme.htm
       ...
     ...
@@ -82,5 +82,3 @@ To install, place the `GameData` folder inside your Kerbal Space Program folder:
 * [Kerbal Hacks Ltd. (KH/L)][KHL]
 
 [KHL]: https://forum.kerbalspaceprogram.com/index.php?/topic/191424-*/ "Kerbal Hacks Ltd. (KH/L)"
-[mm]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/ "Module Manager"
-[mml]: https://github.com/net-lisias-ksp/ModuleManager "Module Manager /L"

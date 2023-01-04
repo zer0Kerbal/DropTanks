@@ -4,41 +4,29 @@ title: The Change Log
 description: The Opening Credits, and the closing credits, plus the first of two (or is three) end credit scenes
 tags: changes,changelog,change-log,page,kerbal,ksp,zer0Kerbal,zedK
 ---
+
 <!-- 
 hdr-changelog.md v1.0.0.0
-Drop Tank Wrapper (DROP) by Kerbal Hacks
+Drop Tanks (DROP)
 created: 13 May 2022
 updated:
 CC BY-ND 4.0 by zer0Kerbal
 --># Changelog  
   
-<<<<<<< Updated upstream
-| modName    | Drop Tank Wrapper (DROP)                                          |
-=======
-| modName    | Drop Tanks (DROP)                                                 |
->>>>>>> Stashed changes
+| modName    | Drop Tanks (DROP)                                          |
 | ---------- | ----------------------------------------------------------------- |
 | license    | CC-BY-NC-SA-4.0                                                   |
 | author     | Enceos and zer0Kerbal                                             |
 | forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/209332-*/) |
-<<<<<<< Updated upstream
-| github     | (https://github.com/zer0Kerbal/zer0Kerbal/DropTankWrapper)        |
-| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/DropTankWrapper)      |
+| github     | (https://github.com/zer0Kerbal/zer0Kerbal/DropTanks)        |
+| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/DropTanks)      |
 | spacedock  | (https://spacedock.info/mod/1127)                                 |
-| ckan       | DropTankWrapper                                                   |
-=======
-| github     | (https://github.com/zer0Kerbal/zer0Kerbal/DropTanks)              |
-| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/DropTanks)            |
-| spacedock  | (https://spacedock.info/mod/1127)                                 |
-| ckan       | DropTanks                                                         |
->>>>>>> Stashed changes
+| ckan       | DropTanks                                                   |
 
 ## Version 1.0.99.0-adoption - `<Thank you Enceos>` edition
 
-* Released
-  * 22 Aug 2022
-  * for Kerbal Space Program 1.12.3
-  * by [zer0Kerbal](http://github.com/zer0Kerbal)
+* 12 Aug 2022  
+* Released for Kerbal Space Program [KSP 1.12.x]
 
 ### Summary 1.0.99.0
 
@@ -52,8 +40,8 @@ CC BY-ND 4.0 by zer0Kerbal
 * Update
   * [drop-tank-*] v2.0.0.0
     * [tags] = #autoLOC_500531 // fueltank ?lfo liquid oxidizer propellant rocket
-  * Add
     * [maxTemp] was 3200 now 2000
+  * Add
     * [stagingIcon] = DECOUPLER_HOR
     * [breakingForce] = 50
     * [breakingTorque] = 50
@@ -78,7 +66,7 @@ CC BY-ND 4.0 by zer0Kerbal
 ### Add localized tags to parts
 
 * Add
-  * [DropTankWrapper.cfg] v1.0.0.0
+  * [DropTanks.cfg] v1.0.0.0
     * adds localized tags to parts
 * closes #38 - Add localized tags to parts
 
@@ -162,7 +150,7 @@ CC BY-ND 4.0 by zer0Kerbal
 ### Status 1.0.99.0
 
 * Issues
-  * closes #10 - Drop Tank Wrapper (DROP) 1.0.99.0-adoption `<Thank you Enceos>`
+  * closes #10 - Drop Tanks (DROP) 1.0.99.0-adoption `<Thank you Enceos>`
   * closes #11 - 1.0.99.0 Verify Legal Mumbo Jumbo
   * closes #12 - 1.0.99.0 Update Documentation
   * closes #13 - 1.0.99.0 Update Social Media

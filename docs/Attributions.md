@@ -7,7 +7,7 @@ tags: attributions,thank-you,directions,page,kerbal,ksp,zer0Kerbal,zedK
 
 <!--
 Attributions.md v1.0.7.1
-Drop Tank Wrapper (DROP) by Kerbal Hacks
+Drop Tanks (DROP)
 created: 01 Feb 2022
 updated: 03 Jun 2022
 -->
@@ -15,7 +15,7 @@ updated: 03 Jun 2022
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
 <i class="fa fa-gear fa-spin fa-3x" style="color: firebrick"></i>
 
-# Drop Tank Wrapper (DROP) by Kerbal Hacks
+# Drop Tanks (DROP)
 
 [Home](./index.md)
 
@@ -24,7 +24,7 @@ updated: 03 Jun 2022
 ### Credits
 
 <ul>
-  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/110725-*/"><img border="0" alt="Enceos" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_03_2016/dancing_cat-avatar.gif.db945a3aa9705efccf5e235458898d1c.thumb.gif.760e54706f08b3d3b5c5bf6284999e29.gif" width="50" height="50" > Enceos</a> for creating <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/209332-*/" alt="Drop Tank Wrapper (DROP)">Drop Tank Wrapper (DROP)</a> addon!</li>
+  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/110725-*/"><img border="0" alt="Enceos" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_03_2016/dancing_cat-avatar.gif.db945a3aa9705efccf5e235458898d1c.thumb.gif.760e54706f08b3d3b5c5bf6284999e29.gif" width="50" height="50" > Enceos</a> for creating <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/209332-*/" alt="Drop Tanks (DROP)">Drop Tanks (DROP)</a> addon!</li>
   <li><i>Thank you to everyone who gave feedback! It's very important for me and highly appreciated.</i></li>
 </ul>
 

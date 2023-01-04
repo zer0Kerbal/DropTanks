@@ -1,19 +1,12 @@
 {
-<<<<<<< Updated upstream:GameData/KerbalHacks/DropTankWrapper/DropTankWrapper.version
-	"NAME"		     : "Drop Tank Wrapper (DROP) by Kerbal Hacks",
+	"NAME"		     : "Drop Tank Wrapper (DROP)",
 	"URL"			 : "https://raw.githubusercontent.com/zer0Kerbal/DropTankWrapper/master/DropTankWrapper.version",
 	"DOWNLOAD"	     : "https://github.com/zer0Kerbal/DropTankWrapper/releases/latest",
 	"CHANGE_LOG_URL" : "https://raw.githubusercontent.com/zer0Kerbal/DropTankWrapper/master/changelog.md",
-=======
-	"NAME"		     : "Drop Tanks (DROP) by KerbalHacks",
-	"URL"			 : "https://raw.githubusercontent.com/zer0Kerbal/DropTanks/master/DropTanks.version",
-	"DOWNLOAD"	     : "https://github.com/zer0Kerbal/DropTanks/releases/latest",
-	"CHANGE_LOG_URL" : "https://raw.githubusercontent.com/zer0Kerbal/DropTanks/master/changelog.md",
->>>>>>> Stashed changes:GameData/KerbalHacks/DropTanks/DropTanks.version
 	"GITHUB" :
 	{
 		"USERNAME"		    : "zer0Kerbal",
-		"REPOSITORY"		: "DropTanks",
+		"REPOSITORY"		: "DropTankWrapper",
 		"ALLOW_PRE_RELEASE" : false
 	},
 	"VERSION" :
@@ -32,12 +25,12 @@
 	"KSP_VERSION_MIN" :
 	{
 		"MAJOR" : 1,
-		"MINOR" : 3,
-		"PATCH" : 1
+		"MINOR" : 0,
+		"PATCH" : 0
 	},
 	"INSTALL_LOC" :
 	{
-		"NAME"      : "DropTanks",
-		"DIRECTORY" : "KerbalHacks/DropTanks"
+		"NAME"      : "DropTankWrapper",
+		"DIRECTORY" : "KerbalHacks/DropTankWrapper"
 	}
 }
