@@ -10,10 +10,35 @@
 | spacedock  | (https://spacedock.info/mod/1127)                                 |
 | ckan       | DropTanks                                                         |
 
+## Version 1.1.0.0-release - `<help137: Wet Paint>` edition
+
+* Released
+  * 03 Dec 2023
+  * for Kerbal Space Program 1.12.4
+  * by [zer0Kerbal](http://github.com/zer0Kerbal)
+
+### Summary 1.1.0.0
+
+* KSP verison update
+* Linting and Minor Updates
+* seems the release delivery system was a tad behind, 1.0.99.0-adoption should have been available months ago.
+
+### Status 1.1.0.0
+
+* Issues
+  * closes #42 - Drop Tank Wrapper (DROP) 1.1.0.0-release `<Wet Paint>`
+  * closes #43 - 1.1.0.0-release Verify Legal Mumbo Jumbo
+  * closes #44 - 1.1.0.0-release Update Documentation
+  * closes #45 - 1.1.0.0-release Update Social Media
+  * closes #46 - [Bug 🐞]: Directory for the model and texture files is incorrect in all 4 .cfg files
+  * updates #14 - Localization - Master
+
+---
+
 ## Version 1.0.99.0-adoption - `<Thank you Enceos>` edition
 
 * Released
-  * 22 Aug 2022
+  * 03 Dec 2023
   * for Kerbal Space Program 1.12.3
   * by [zer0Kerbal](http://github.com/zer0Kerbal)
 
