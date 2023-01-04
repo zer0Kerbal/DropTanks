@@ -1,7 +1,7 @@
 {
 	"schedule": "weekly",
 	"ignoredFiles": [
-		"GameData/KerbalHacks/DropTankWrapper/*",
+		"GameData/KerbalHacks/DropTanks/*",
 		"source/*",
 		"**/@thumbs/**",
 		"**/Agencies/**",
