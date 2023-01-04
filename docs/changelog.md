@@ -7,7 +7,7 @@ tags: changes,changelog,change-log,page,kerbal,ksp,zer0Kerbal,zedK
 
 <!-- 
 hdr-changelog.md v1.0.0.0
-Drop Tank Wrapper (DROP) by Kerbal Hacks
+Drop Tank Wrapper (DROP)
 created: 13 May 2022
 updated:
 CC BY-ND 4.0 by zer0Kerbal
