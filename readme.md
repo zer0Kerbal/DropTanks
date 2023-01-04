@@ -1,5 +1,5 @@
 <!-- readme.md v1.6.9.4
-Drop Tank Wrapper (DROP) by Kerbal Hacks
+Drop Tank Wrapper (DROP)
 created: 17 Jul 2017
 updated: 10 Aug 2022 -->
 
@@ -11,7 +11,7 @@ updated: 10 Aug 2022 -->
 
 
 
-# Drop Tank Wrapper (DROP) by Kerbal Hacks
+# Drop Tank Wrapper (DROP)
 
 Stockalike curved wraparound droptanks with an integrated decoupler for Kerbal Space Program
 
@@ -34,18 +34,15 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 * Stockalike texture will blend in with any craft
 * TweakScale support
 
----
-
 ### See More
 
+* [Drop Tank Wiki](https://en.wikipedia.org/wiki/Drop_tank)
 * See our [Parts Catalog][MOD:parts] for part pictures
 * For more images, see our [Marketing Slicks][MOD:markt]
 * Discussions and news on this mod: See [Discussions][MOD:discu] or [KSP Forums][MOD:forum]
 * Changelog Summary for more details of changes: See [ChangeLog][MOD:chlog]
 * Known Issues for more details of feature requests and known issues : See [Known Issues][MOD:issue]
 * GitHub Pages : See [Pages][MOD:pages]
-
----
 
 ### Help Wanted
 
@@ -86,34 +83,36 @@ or [![CKAN][CKAN:img]][CKAN:url]
 
 ### Dependencies
 
-* [Kerbal Space Program][KSP:url] [![Kerbal Space Program][KSP:shd]][KSP:url] [^2]
 * [Kerbal Hacks Ltd(KH/L)][KHL]
+* [Kerbal Space Program][KSP:url] [![Kerbal Space Program][KSP:shd]][KSP:url] [^2]
 
-### Supports
+### Suggests
 
-Also by Kerbal Hacks by [Enceos][enceos]
+* By [Kerbal Hacks (KH/L)][KHL]
+  * [Animated Station Screens (ASS)][ASS]
+  * [Asphalt Tiles (AT)][AT]
+  * [Drop Tank Wrapper (DROP)][DROP]
+  * [Hazard Tanks Textures (HZT)][HZT]
+  * [KIS Props (KISP)][KISP]
+  * [Large Stock Fairings (LSF)][LSF]
+  * [More Asphalt Tiles (AT)][MAT]
+  * [Portable Science Crate (PSC)][PRC]
+  * [Simple Mission Flags (SMF)][SMF]
+  * [Ven's Style Textures (VST)][VST]
 
-* [Drop Tank Wrapper (DROP)][DROP]
-* [Portable Science Crate (PSC)][PRC]
-* [Simple Mission Flags (SMF)][SMF]
-* [Hazard Tanks Textures (HZT)][HZT]
-* [Ven's Style Textures (VST)][VST]
-* [Asphalt Tiles (AT)][AT]
-* [More Asphalt Tiles (AT)][MAT]
-* [Large Stock Fairings (LSF)][LSF]
-* [Animated Station Screens (ASS)][ASS]
-* [KIS Props (KISP)][KISP]
+### Recommends
+
+* [GPO (Goo Pumps & Oils') Speed Pump (GPO)][GPO]
+* [TweakScale (TWK)][twk]
 
 ### Supports
 
 * [On Demand Fuel Cells (ODFC)][ODFC]
-* [GPO (Goo Pumps & Oils') Speed Pump (GPO)][GPO]
-* [TweakScale (TWK)][twk]
 * Fuel Switchers
   * CryoEngines, Stock Fuel Switch, Modular Fuel Tanks, Configurable Containers
 * Either [^3]
-  * [Module Manager][mm]
   * [Module Manager /L][mml]
+  * [Module Manager][mm]
 
 ### Tags
 
@@ -231,10 +230,10 @@ parts, resources
 [VST]: https://forum.kerbalspaceprogram.com/index.php?/topic/134889-*/ "Ven's Style Textures (VST)"
 
 [b9ps]: https://forum.kerbalspaceprogram.com/index.php?/topic/140541-*/ "B9 Part Switch"
-[mm]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/ "Module Manager"
-[mml]: https://github.com/net-lisias-ksp/ModuleManager "Module Manager /L"
 [kas]: http://forum.kerbalspaceprogram.com/index.php?/topic/142594-*/ "Kerbal Attachment System"
 [kis]: http://forum.kerbalspaceprogram.com/index.php?/topic/149848-*/ "Kerbal Inventory System"
+[mml]: https://github.com/net-lisias-ksp/ModuleManager "Module Manager /L"
+[mm]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/ "Module Manager"
 [twk]: https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*/ "TweakScale"
 
 <!-- financial support -->
@@ -272,7 +271,7 @@ parts, resources
 [reddit]: https://www.reddit.com/user/zer0Kerbal
 [twitch]: https://www.twitch.tv/zer0kerbal
 [twitter]: https://twitter.com/zer0Kerbal
-[youtube]: https://www.youtube.com/channel/UCp9c8IaK4Gjgfj3O9QxrbDw
+[youtube]: https://www.youtube.com/@zer0Kerbal
 
 [enceos]: https://forum.kerbalspaceprogram.com/index.php?/profile/110725-*/ "Enceos"  
 [zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"
