@@ -1,14 +1,14 @@
 # Changelog  
   
-| modName    | Drop Tank Wrapper (DROP)                                          |
+| modName    | Drop Tanks (DROP)                                                 |
 | ---------- | ----------------------------------------------------------------- |
 | license    | CC-BY-NC-SA-4.0                                                   |
 | author     | Enceos and zer0Kerbal                                             |
 | forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/209332-*/) |
-| github     | (https://github.com/zer0Kerbal/zer0Kerbal/DropTankWrapper)        |
-| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/DropTankWrapper)      |
+| github     | (https://github.com/zer0Kerbal/zer0Kerbal/DropTanks)              |
+| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/DropTanks)            |
 | spacedock  | (https://spacedock.info/mod/1127)                                 |
-| ckan       | DropTankWrapper                                                   |
+| ckan       | DropTanks                                                         |
 
 ## Version 1.0.99.0-adoption - `<Thank you Enceos>` edition
 
@@ -55,7 +55,7 @@
 ### Add localized tags to parts
 
 * Add
-  * [DropTankWrapper.cfg] v1.0.0.0
+  * [DropTanks.cfg] v1.0.0.0
     * adds localized tags to parts
 * closes #38 - Add localized tags to parts
 
@@ -139,7 +139,7 @@
 ### Status 1.0.99.0
 
 * Issues
-  * closes #10 - Drop Tank Wrapper (DROP) 1.0.99.0-adoption `<Thank you Enceos>`
+  * closes #10 - Drop Tanks (DROP) 1.0.99.0-adoption `<Thank you Enceos>`
   * closes #11 - 1.0.99.0 Verify Legal Mumbo Jumbo
   * closes #12 - 1.0.99.0 Update Documentation
   * closes #13 - 1.0.99.0 Update Social Media
