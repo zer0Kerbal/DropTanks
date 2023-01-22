@@ -22,10 +22,39 @@ CC BY-ND 4.0 by zer0Kerbal
 | spacedock  | (https://spacedock.info/mod/1127)                                 |
 | ckan       | DropTanks                                                         |
 
+# Release Notes
+
+# Version 1.1.1.0-release - `<help137: TweakScale>` edition
+
+* Released
+  * 21 Jan 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](http://github.com/zer0Kerbal)
+
+### Summary 1.1.1.0
+
+* Double True Trouble in drop-tank-sleeve
+* <TweakScale.cfg> v1.0.1.0
+  * Not all scaled
+    * thank you to [help137](https://github.com/help137)
+  * [defaultScale]
+    * was 2.5 now is 1.25
+* proper credit given to help137 for pointing out the red herring.
+* closes #51 - [BUG] <drop-tank-sleeve-125.cfg>
+* closes #52 - [Bug 🐞]: Tweakscale patch only affects long tank.
+
+### Status 1.1.1.0
+
+* Issues
+  * closes #49 - Drop Tanks (DROP) 1.1.1.0-release `<help137: TweakScale>` edition
+  * closes #50 - 1.1.1.0 Additional Tasks
+
+---
+
 ## Version 1.1.0.0-release - `<help137: Wet Paint>` edition
 
 * Released
-  * 03 Dec 2023
+  * 03 Dec 2022
   * for Kerbal Space Program 1.12.4
   * by [zer0Kerbal](http://github.com/zer0Kerbal)
 
@@ -34,6 +63,9 @@ CC BY-ND 4.0 by zer0Kerbal
 * KSP verison update
 * Linting and Minor Updates
 * seems the release delivery system was a tad behind, 1.0.99.0-adoption should have been available months ago.
+* Red Herring
+  * thank you to [help137](https://github.com/help137)
+* closes #46 - [Bug 🐞]: Directory for the model and texture files is incorrect in all 4 .cfg files
 
 ### Status 1.1.0.0
 
@@ -42,7 +74,6 @@ CC BY-ND 4.0 by zer0Kerbal
   * closes #43 - 1.1.0.0-release Verify Legal Mumbo Jumbo
   * closes #44 - 1.1.0.0-release Update Documentation
   * closes #45 - 1.1.0.0-release Update Social Media
-  * closes #46 - [Bug 🐞]: Directory for the model and texture files is incorrect in all 4 .cfg files
   * updates #14 - Localization - Master
 
 ---
