@@ -22,9 +22,7 @@ CC BY-ND 4.0 by zer0Kerbal
 | spacedock  | (https://spacedock.info/mod/1127)                                 |
 | ckan       | DropTanks                                                         |
 
-# Release Notes
-
-# Version 1.1.1.0-release - `<help137: TweakScale>` edition
+## Version 1.1.1.0-release - `<help137: TweakScale>` edition
 
 * Released
   * 21 Jan 2023
