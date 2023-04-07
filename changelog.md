@@ -10,6 +10,29 @@
 | spacedock  | (https://spacedock.info/mod/1127)                                 |
 | ckan       | DropTanks                                                         |
 
+## Version 1.1.2.0-release - `<help137: B9 Bingo>` edition
+
+* Released
+  * 06 Apr 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](http://github.com/zer0Kerbal)
+
+### Summary 1.1.2.0
+
+* Add (localized) B9 Tank Switch
+  * thank you to [help137](https://github.com/help137)
+
+### Isses 1.1.2.0
+
+* closes #55 - Drop Tanks (DROP) 1.1.2.0-release `<B9 Bingo>` edition
+* closes #56 - 1.1.2.0 Additional Tasks
+
+* Updates #14 - Localization - Master
+* closes #58 - [Request]: B9 Fuel Switch Patch
+* Updates #57 - [REQUEST] 2.5m versions
+
+---
+
 ## Version 1.1.1.0-release - `<help137: TweakScale>` edition
 
 * Released
