@@ -22,6 +22,41 @@ CC BY-ND 4.0 by zer0Kerbal
 | spacedock  | (https://spacedock.info/mod/1127)                                 |
 | ckan       | DropTanks                                                         |
 
+## Version 1.2.0.0-release - `<Corporate Assets>` edition
+
+* Released
+  * 25 Apr 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](http://github.com/zer0Kerbal)
+  * Hard Dependency:
+    * [KerbalHacks Ltd (KHL)](https://legacy.curseforge.com/kerbal/ksp-mods/kerbalhacksltd)
+
+### Change Summary 1.2.0.0
+
+* Bill krunched some numbers and found more space for Bob to expand the fuel storage
+* B9 patch will auto adjust
+* IFS patch needs a massive overhaul
+  * bracelet
+    * LiquidFuel: 67.5 --> 207
+    * Oxidizer: 82.5 --> 253
+  * cap
+    * LiquidFuel: 25 --> 99
+    * Oxidizer: 82.5 --> 121
+  * wristband
+    * LiquidFuel: 135 --> 414
+    * Oxidizer: 165 --> 506
+  * wrapper
+    * LiquidFuel: 270 --> 837
+    * Oxidizer: 330 --> 1023
+  * sleeve
+    * LiquidFuel: 540 --> 1080
+    * Oxidizer: 660 --> 1320
+* Issues
+  * closes #60 - Drop Tanks (DROP) 1.2.0.0-release `<Corporate Assets>` edition
+  * closes #61 - 1.2.0.0 Additional Tasks
+
+---
+
 ## Version 1.1.2.0-release - `<help137: B9 Bingo>` edition
 
 * Released
