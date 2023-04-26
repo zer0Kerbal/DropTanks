@@ -31,7 +31,7 @@ Finalize your build and load up the resources, and
 
 *PROFIT!*
 
-[top](#Table-of-Contents))
+[top](#table-of-contents))
 
 
-<!-- this file CC BY-ND 4.0 by zer0Kerbal -->
+<!-- THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
