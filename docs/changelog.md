@@ -28,6 +28,8 @@ CC BY-ND 4.0 by zer0Kerbal
   * 25 Apr 2023
   * for Kerbal Space Program 1.12.5
   * by [zer0Kerbal](http://github.com/zer0Kerbal)
+  * Hard Dependency:
+    * [KerbalHacks Ltd (KHL)](https://legacy.curseforge.com/kerbal/ksp-mods/kerbalhacksltd)
 
 ### Change Summary 1.2.0.0
 
