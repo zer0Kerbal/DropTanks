@@ -29,23 +29,23 @@ This add-on adds five (5) tank parts
 
   <img src="https://thumbs.gfycat.com/DefiniteAcclaimedAlpaca-size_restricted.gif" alt="Rotating Nose Cap" width="100%" height="100%">
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/DropTanks/master/docs/thumbs/drop-tank-cap-125_icon.png" alt="Cap" width="25%" height="25%" />
+ <img src="https://raw.githubusercontent.com/zer0Kerbal/DropTanks/master/docs/thumbs/drop-tank-cap-125_icon.png" alt="Cap" width="25%" height="25%" />
 
 * Bracelet
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/DropTanks/master/docs/thumbs/drop-tank-bracelet-125_icon.png" alt="Bracelet" width="25%" height="25%" />
+ <img src="https://raw.githubusercontent.com/zer0Kerbal/DropTanks/master/docs/thumbs/drop-tank-bracelet-125_icon.png" alt="Bracelet" width="25%" height="25%" />
 
 * Wristband
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/DropTanks/master/docs/thumbs/drop-tank-wristband-125_icon.png" alt="Wristband" width="25%" height="25%" />
+ <img src="https://raw.githubusercontent.com/zer0Kerbal/DropTanks/master/docs/thumbs/drop-tank-wristband-125_icon.png" alt="Wristband" width="25%" height="25%" />
 
 * Wrapper
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/DropTanks/master/docs/thumbs/drop-tank-wrapper-125_icon.png" alt="Wrapper" width="25%" height="25%" />
+ <img src="https://raw.githubusercontent.com/zer0Kerbal/DropTanks/master/docs/thumbs/drop-tank-wrapper-125_icon.png" alt="Wrapper" width="25%" height="25%" />
 
 * Sleeve
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/DropTanks/master/docs/thumbs/drop-tank-sleeve-125_icon.png" alt="Sleeve" width="25%" height="25%" />
+ <img src="https://raw.githubusercontent.com/zer0Kerbal/DropTanks/master/docs/thumbs/drop-tank-sleeve-125_icon.png" alt="Sleeve" width="25%" height="25%" />
 
 ---
 
