@@ -19,7 +19,7 @@ updated: 15 May 2022 -->
 
 ## Parts Catalog
 
-Stockalike curved wraparound droptanks with an integrated decoupler for Kerbal Space Program
+Stockalike curved wraparound (conformal) droptanks with an integrated decoupler for Kerbal Space Program
 
 This add-on adds five (5) tank parts
 
