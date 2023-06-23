@@ -80,7 +80,6 @@ CC BY-ND 4.0 by zer0Kerbal
 * updates #14 - Localization - Master
 * updates #26 - Dutch <nl-nl.cfg>
 
-
 #### Documentation 1.2.1.0
 
 * Update
@@ -93,6 +92,8 @@ CC BY-ND 4.0 by zer0Kerbal
 
 * closes #67 - Drop Tanks (DROP) 1.2.1.0-release `<Спасибо evanisrael>` edition
 * closes #68 - 1.2.1.0 Additional Tasks
+
+---
 
 ## Version 1.2.0.0-release - `<Corporate Assets>` edition
 
