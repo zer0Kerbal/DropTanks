@@ -6,16 +6,16 @@ tags: legal,mumbo,jumbo,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 
 <!--
-LegalMumboJumbo.md v1.0.5.1
+LegalMumboJumbo.md v1.0.6.0
 Drop Tanks (DROP)
-created: 01 Feb 2022
-updated: 15 May 2022
+created: 14 Aug 2022
+updated: 22 Jun 2023
 -->
 
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
 <i class="fa-solid fa-file-contract fa-beat-fade fa-3x" style="--fa-beat-fade-opacity: 0.1; --fa-beat-fade-scale: 1.25;color: #6495ED" ></i>
 
-# Drop Tanks (DROP)
+## [Drop Tanks (DROP)][mod]
 
 [Home](./index.md)
 
@@ -43,4 +43,7 @@ updated: 15 May 2022
 
 ---
 
-<!-- THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
+THIS FILE: CC BY-ND 4.0 by zer0Kerbal
+  used with express permission from zer0Kerbal
+
+[mod]: https://www.curseforge.com/kerbal/ksp-mods/DropTanks "Drop Tanks (DROP)"
