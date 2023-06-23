@@ -4,10 +4,10 @@ title: Manual Installation
 description: the flat-pack Kiea instructions, written in Kerbalese, unusally present
 tags: installation,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
-<!-- ManualInstallation.md v1.0.0.0
+<!-- ManualInstallation.md v1.0.6.0
 Drop Tanks (DROP)
-created: 01 Oct 2019
-updated: 27 May 2023
+created: 14 Aug 2022
+updated: 22 Jun 2023
 
 TEMPLATE: ManualInstallation.md v1.1.9.1
 created: 01 Feb 2022
@@ -85,3 +85,8 @@ To install, place the `GameData` folder inside your Kerbal Space Program folder:
 * [Kerbal Hacks Ltd. (KH/L)][KHL]
 
 [KHL]: https://forum.kerbalspaceprogram.com/index.php?/topic/191424-*/ "Kerbal Hacks Ltd. (KH/L)"
+
+THIS FILE: CC BY-ND 4.0 by zer0Kerbal
+  used with express permission from zer0Kerbal
+
+[mod]: https://www.curseforge.com/kerbal/ksp-mods/DropTanks "Drop Tanks (DROP)"

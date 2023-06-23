@@ -4,10 +4,10 @@ title: Marketing Images
 description: camera goes *click-click*
 tags: marketing,pr,page,kerbal,ksp,zer0Kerbal,Lisias,zedK
 ---
-<!-- Marketing.md v1.0.2.0
+<!-- Marketing.md v1.0.6.0
 Drop Tanks (DROP)
-created: 03 Dec 2023
-updated: 26 May 2023
+created: 14 Aug 2022
+updated: 22 Jun 2023
 
 based upon work by Lisias
 
@@ -22,6 +22,7 @@ this file:
 <i class="fa-solid fa-user-astronaut fa-beat-fade fa-3x" style="--fa-beat-fade-opacity: 0.1; --fa-beat-fade-scale: 1.25;color: #BADA55" ></i>
 
 # [Drop Tanks (DROP)][mod] [WIP]
+
 [Home](./index.md)
 
 ## Marketing Slicks
@@ -49,5 +50,8 @@ Marketing Slick (very old image, but still valid)
 *PROFIT!*
 
 [top](#marketing-slicks)
+
+THIS FILE: CC BY-ND 4.0 by zer0Kerbal
+  used with express permission from zer0Kerbal
 
 [mod]: https://www.curseforge.com/kerbal/ksp-mods/DropTanks "Drop Tanks (DROP)"
