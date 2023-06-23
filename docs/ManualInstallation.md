@@ -4,19 +4,22 @@ title: Manual Installation
 description: the flat-pack Kiea instructions, written in Kerbalese, unusally present
 tags: installation,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
-
-<!-- ManualInstallation.md v1.1.8.1
+<!-- ManualInstallation.md v1.0.0.0
 Drop Tanks (DROP)
 created: 01 Oct 2019
-updated: 29 Jul 2022 -->
+updated: 27 May 2023
 
-<!-- based upon work by Lisias -->
+TEMPLATE: ManualInstallation.md v1.1.9.1
+created: 01 Feb 2022
+updated: 26 Apr 2023
 
-# Drop Tanks (DROP)
+based upon work by Lisias -->
+
+## [Drop Tanks (DROP)][mod]
 
 [Home](./index.md)
 
-Stockalike curved wraparound droptanks with an integrated decoupler for Kerbal Space Program
+Stockalike curved conformal (wrap-around) DropTanksIII with an integrated decoupler
 
 ## Installation Instructions
 
