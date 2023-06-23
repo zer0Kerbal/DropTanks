@@ -121,7 +121,7 @@
 
 ### Summary 1.1.0.0
 
-* KSP verison update
+* KSP version update
 * Linting and Minor Updates
 * seems the release delivery system was a tad behind, 1.0.99.0-adoption should have been available months ago.
 * Red Herring
