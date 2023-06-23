@@ -4,14 +4,12 @@ title: Why
 description: the flat-pack Kiea instructions, written in Kerbalese, unusally present
 tags: forty-two,42,6x7,6times7,6*7,why,why-not,page,kerbal,ksp,zer0Kerbal,zedK
 ---
-
-<!-- Why.md v1.1.0.1
+<!-- Why.md v1.0.6.0
 Drop Tanks (DROP)
-created: 01 Apr 2019
-updated: 
+created: 14 Aug 2022
+updated: 22 Jun 2023
 -->
-
-# Drop Tanks (DROP)
+## [Drop Tanks (DROP)][mod]
 
 [Home](/index.md)
 
@@ -27,4 +25,7 @@ updated:
 
 [zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"
 
-<!-- THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
+THIS FILE: CC BY-ND 4.0 by zer0Kerbal
+  used with express permission from zer0Kerbal
+
+[mod]: https://www.curseforge.com/kerbal/ksp-mods/DropTanks "Drop Tanks (DROP)"
