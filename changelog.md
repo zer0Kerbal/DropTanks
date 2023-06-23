@@ -10,15 +10,77 @@
 | spacedock  | (https://spacedock.info/mod/1127)                                 |
 | ckan       | DropTanks                                                         |
 
+## Version 1.2.1.0-release - `<Спасибо evanisrael>` edition
+
+* Released
+  * 22 Jun 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](http://github.com/zer0Kerbal)
+
+* 📌 Pinned
+  * Dependencies:
+    * [Kerbal Hacks Limited(KHL)](https://www.curseforge.com/kerbal/ksp-mods/kerbalhacksltd)
+  * search for `drop` in editors
+
+### Change Summary 1.2.1.0
+
+* Modernize B9 fuel switch patch
+* Localize
+  * ![Russian (Русский)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/RU.png) Russian (Русский)
+  * Спасибо [evanisrael](https://github/evanisrael)
+
+### Changes 1.2.1.0
+
+#### Parts 1.2.1.0
+
 * Updated
+  * remove [FuelVolume] since now calculated in patch
   * [drop-tank-wristband-125.cfg] v2.3.1.0
   * [drop-tank-bracelet-125.cfg] v2.3.1.0
   * [drop-tank-cap-125.cfg] v2.3.1.0
   * [drop-tank-sleeve-125.cfg] v2.3.1.0
   * [drop-tank-wrapper-125.cfg] v2.3.1.0
 
+#### Compatibility 1.2.1.0
+
+* Modernize fuel switch patches
 * Updated
   * [B9FuelSwitch.cfg] v1.0.3.0
+  * [InterstellarFuelSwitch.cfg] v1.0.4.0
+    * now uses string from KHL
+* updates #69 - IFS patch needs a massive overhaul
+
+#### Localization 1.2.1.0
+
+* Add
+  * Russian (Русский)
+    * [ru.cfg] v1.0.0.0
+    * Спасибо [evanisrael](https://github/evanisrael)
+  * Translation guides
+    * [readme-ru.md] v1.0.1.0
+    * [quickstart-ru.md] v1.0.0.0
+    * Спасибо [evanisrael](https://github/evanisrael)
+* Update
+  * [nl-nl.cfg] v1.0.3.0
+  * [ru.cfg] v1.0.1.0
+    * add header, give credit
+* closes #22 - Russian (Русский) <ru.cfg>
+* updates #14 - Localization - Master
+* updates #26 - Dutch <nl-nl.cfg>
+
+
+#### Documentation 1.2.1.0
+
+* Update
+  * [Attributions.md] v1.0.6.0
+  * [Localizations.md] v1.0.6.0
+  * [readme.md] v1.2.1.0
+  * [ReleaseLayout.md] 1.2.1.0
+
+### Issues 1.2.1.0
+
+* closes #67 - Drop Tanks (DROP) 1.2.1.0-release `<Спасибо evanisrael>` edition
+* closes #68 - 1.2.1.0 Additional Tasks
 
 ## Version 1.2.0.0-release - `<Corporate Assets>` edition
 
@@ -152,7 +214,7 @@
 ## Version 1.0.99.0-adoption - `<Thank you Enceos>` edition
 
 * Released
-  * 03 Dec 2023
+  * 14 Aug 2022
   * for Kerbal Space Program 1.12.3
   * by [zer0Kerbal](http://github.com/zer0Kerbal)
 
