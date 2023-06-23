@@ -10,6 +10,16 @@
 | spacedock  | (https://spacedock.info/mod/1127)                                 |
 | ckan       | DropTanks                                                         |
 
+* Updated
+  * [drop-tank-wristband-125.cfg] v2.3.1.0
+  * [drop-tank-bracelet-125.cfg] v2.3.1.0
+  * [drop-tank-cap-125.cfg] v2.3.1.0
+  * [drop-tank-sleeve-125.cfg] v2.3.1.0
+  * [drop-tank-wrapper-125.cfg] v2.3.1.0
+
+* Updated
+  * [B9FuelSwitch.cfg] v1.0.3.0
+
 ## Version 1.2.0.0-release - `<Corporate Assets>` edition
 
 * Released
