@@ -19,13 +19,13 @@ Stockalike curved wraparound (conformal) droptanks with an integrated decoupler
 
 <img src="https://thumbs.gfycat.com/DefiniteAcclaimedAlpaca-size_restricted.gif" alt="Rotating Nose Cap" width="35%" height="35%">
 
-## By [`zer0Kerbal`][zer0Kerbal], originally by [`Enceos`][enceos]
+## By [`zer0Kerbal`][zer0Kerbal], originally by [`Enceos`][Enceos]
 
 adopted with *express* permission and brought to you by *KerbSimpleCo*
 
 <img src="https://raw.githubusercontent.com/zer0Kerbal/DropTanks/master/img/HeroLogo_1920x1920.png" alt="Drop Tanks Hero" width="50%" height="50%">
 
-### Description by [Enceos][enceos]
+### Description by [Enceos][Enceos]
 
 > * It's always nice to add some extra fuel without adding much to the size of the spacecraft
 > * Has 4 sizes of different length
@@ -114,7 +114,7 @@ parts, resources, combat
 
 ### Credits and Special Thanks
 
-* [`Enceos`][enceos] for creating this glorious parts addon!
+* [`Enceos`][Enceos] for creating this glorious parts addon!
 * see [Attribution][attrb] for more
 
 ### Legal Mumbo Jumbo (License *provenance*)
@@ -124,7 +124,7 @@ parts, resources, combat
 > Forum: [Thread][forum] - Source: [GitHub][GITHUB:url]  
 > License: [![License][LIC:shd]][LIC:url] ![License][LIC:log]
 
-#### Original (0) - Author: [`Enceos`][enceos]
+#### Original (0) - Author: [`Enceos`][Enceos]
 
 > Forum: [Thread][MOD:0:thread] - Download: [SpaceDock][MOD:0:dnload] - Source: [SpaceDock][MOD:0:source]  
 > License: [![License][LIC:0:shd]][LIC:0:url] ![License][LIC:0:log]
@@ -235,7 +235,7 @@ Comment, click, like, share, up-vote, subscribe
 [steam]: https://steamcommunity.com/id/zeroKerbal
 [projects]: https://zer0kerbal.github.io/zer0Kerbal/projects.html
 
-[enceos]: https://forum.kerbalspaceprogram.com/index.php?/profile/110725-*/ "Enceos"  
+[Enceos]: https://forum.kerbalspaceprogram.com/index.php?/profile/110725-*/ "Enceos"  
 [zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"
 
 #### Connect with me
